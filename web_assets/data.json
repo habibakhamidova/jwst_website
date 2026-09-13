@@ -1,0 +1,352 @@
+[
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00001_nrcb2_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_1.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00004_nrcb1_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_2.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00003_nrcb2_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_3.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00002_nrcb2_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_4.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00005_nrcb1_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_5.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00003_nrcb1_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_6.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00004_nrcb2_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_7.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00005_nrcb2_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_8.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00002_nrcb1_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_9.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00001_nrcb1_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_10.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00001_nrca2_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_11.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00002_nrca2_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_12.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00005_nrca1_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_13.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00004_nrca1_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_14.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00003_nrca2_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_15.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00005_nrca2_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_16.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00002_nrca1_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_17.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00003_nrca1_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_18.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00004_nrca2_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_19.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00001_nrca1_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_20.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F444W",
+        "FILE_NAME": "jw02731001001_02101_00005_nrcalong_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_21.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00004_nrca3_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_22.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00002_nrca4_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_23.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F444W",
+        "FILE_NAME": "jw02731001001_02101_00003_nrcblong_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_24.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00003_nrca4_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_25.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00005_nrca3_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_26.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F444W",
+        "FILE_NAME": "jw02731001001_02101_00002_nrcalong_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_27.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F444W",
+        "FILE_NAME": "jw02731001001_02101_00004_nrcblong_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_28.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00001_nrca4_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_29.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F444W",
+        "FILE_NAME": "jw02731001001_02101_00001_nrcalong_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_30.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00001_nrca3_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_31.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00003_nrca3_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_32.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00005_nrca4_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_33.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00004_nrca4_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_34.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00002_nrca3_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_35.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00003_nrcb4_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_36.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F444W",
+        "FILE_NAME": "jw02731001001_02101_00001_nrcblong_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_37.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00005_nrcb3_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_38.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00004_nrcb3_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_39.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00002_nrcb4_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_40.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00001_nrcb4_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_41.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F444W",
+        "FILE_NAME": "jw02731001001_02101_00005_nrcblong_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_42.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F444W",
+        "FILE_NAME": "jw02731001001_02101_00003_nrcalong_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_43.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00001_nrcb3_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_44.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00004_nrcb4_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_45.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00002_nrcb3_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_46.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F444W",
+        "FILE_NAME": "jw02731001001_02101_00002_nrcblong_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_47.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00003_nrcb3_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_48.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F444W",
+        "FILE_NAME": "jw02731001001_02101_00004_nrcalong_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_49.png"
+    },
+    {
+        "TARGNAME": "NGC 3324",
+        "INSTRUME": "NIRCAM",
+        "FILTER": "F187N",
+        "FILE_NAME": "jw02731001001_02101_00005_nrcb4_o001_crf.fits",
+        "IMAGE_PATH": "web_assets/target_image_50.png"
+    }
+]
