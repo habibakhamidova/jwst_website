@@ -1,0 +1,12 @@
+# API keys or secrets
+.env
+*_key.txt
+
+# Huge raw FITS files
+*.fits
+
+# Python virtual environment & cache
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
