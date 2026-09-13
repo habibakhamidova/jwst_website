@@ -16,18 +16,18 @@ This project benchmarks Large Language Models (Google Gemini 2.5) as automated a
 ### Prerequisites
 Python 3.10+ version alongisde a Google Gemini API Key
 ### Installation
-Clone the repository and install required dependencies:
+Clone the repository and install required dependencies:/
    `git clone https://github.com/your-username/jwst_website.git
     cd jwst_website
     pip install -r requirements.txt`
-In addition to the requirements file, install processing tools if running the notebook locally:
+In addition to the requirements file, install processing tools if running the notebook locally:/
    `pip install astropy matplotlib google-genai`
 ### Running the Pipeline
-Execute `data_analysis.ipynb` in Jupyter Notebook or VS Code to process raw FITS files
-   `client = genai.Client(api_keys = "YOUR_GEMINI_API_KEY")`
+Execute `data_analysis.ipynb` in Jupyter Notebook or VS Code to process raw FITS files/
+`client = genai.Client(api_keys = "YOUR_GEMINI_API_KEY")`
 Then, run all cells in the notebook to generate a `web_assets/data.json` and processed images
 ### Launch the Website
-Run the Streamlit dashboard
+Run the Streamlit dashboard/
    `streamlit run app.py`
 ## Dataset Information
 - Target Name: NGC 3324 (star-forming region)
