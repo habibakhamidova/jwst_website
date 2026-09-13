@@ -98,7 +98,7 @@ else:
         with btn_col2:
             if st.button("Next Target➡️", width = "stretch"):
                 st.session_state.image_index = (st.session_state.image_index + 1) % len(all_metadata)
-        st.caption(f"Shwoing observation {st.session_state.image_index + 1} of {len(all_metadata)}") 
+        st.caption(f"Showing observation {st.session_state.image_index + 1} of {len(all_metadata)}") 
 
     # Create two sub-columns for side-by-side view
     sub_col1, sub_col2 = st.columns(2)
