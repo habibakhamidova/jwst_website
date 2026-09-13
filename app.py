@@ -6,7 +6,7 @@ from PIL import Image
 # set webpage title and layout
 st.set_page_config(
     page_title = "JWST Telemetry and Image Dashboard",
-    page_icon = "✰",
+    page_icon = "🔭",
     layout = "wide"
 )
 # custom CSS styling 
@@ -72,7 +72,7 @@ else:
     st.sidebar.json(metadata)
 
     # main dashboard UI
-    st.title("🔭 JWST Automated Main Dashboard")
+    st.title("✰ JWST Automated Main Dashboard")
     st.caption("AI-Powered Metadata Extraction and Image Visualization using Gemini 2.5 Flash Model")
     st.markdown("---")
     # creating two columns, left for celestial images, right for the metadata (instrument type, filter, etc)
@@ -98,7 +98,27 @@ else:
         with btn_col2:
             if st.button("Next Target➡️", width = "stretch"):
                 st.session_state.image_index = (st.session_state.image_index + 1) % len(all_metadata)
-        st.caption(f"Shwoing observation {st.session_state.image_index + 1} of {len(all_metadata)}")
+        st.caption(f"Shwoing observation {st.session_state.image_index + 1} of {len(all_metadata)}") 
+
+    # Create two sub-columns for side-by-side view
+    sub_col1, sub_col2 = st.columns(2)
+    with sub_col1:
+        st.caption("📷 Raw Single Filter")
+        if img_path and os.path.exists(img_path):
+            img = Image.open(img_path)
+            st.image(img,  width = "stretch")
+
+    with sub_col2:
+        # WORK IN PROGRESS
+        st.caption("🌌 Official Composite (Work in Progress)")
+        # Direct Wikimedia link rendered by the browser
+        wikimedia_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/JWST_2022-07-12_Carina_Nebula.png/1200px-JWST_2022-07-12_Carina_Nebula.png"
+        
+        st.image(
+            wikimedia_url, 
+            caption = "Full RGB Composite of NGC 3324", 
+            width = 'stretch'
+        )
     with col2:
         st.subheader("Extracted Telemetry")
         st.write("Parameters extracted automatically from raw FITS header by Gemini 2.5 Flash")
