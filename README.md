@@ -13,7 +13,7 @@ This project benchmarks Large Language Models (Google Gemini 2.5) as automated a
 | Data Archive	| MAST (Mikulski Archive for Space Telescopes) |
 
 ## Repository Structure 
-JWST_data_analysis/
+`JWST_data_analysis/
 ├── app.py                   # Streamlit dashboard application
 ├── data_analysis.ipynb      # Main pipeline notebook (Assets Generation)
 ├── requirements.txt         # Production dependencies for Streamlit Cloud
@@ -21,7 +21,7 @@ JWST_data_analysis/
 │   ├── data.json            # Extracted target parameters and file mappings
 │   ├── target_image_1.png   # Rendered FITS detector images
 │   └── carina_composite.jpg # NASA composite reference image
-└── README.md                # Project documentation
+└── README.md                # Project documentation`
 
 ## Running this project
 1. Prerequisites
