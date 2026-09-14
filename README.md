@@ -34,6 +34,9 @@ Then, run all cells in the notebook to generate a `web_assets/data.json` and pro
 Run the Streamlit dashboard<br>
    `streamlit run app.py`<br>
    
+You can also visit my deployed Streamlit website: <br>
+`https://jwst-my.streamlit.app`<br>
+   
 ## Dataset Information
 - Target Name: NGC 3324 (star-forming region)
 - Program ID: JWST ERS 02731
