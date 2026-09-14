@@ -20,15 +20,20 @@ Clone the repository and install required dependencies:<br>
 `git clone https://github.com/your-username/jwst_website.git`<br>
 `cd jwst_website`<br>
 `pip install -r requirements.txt`<br>
+
 In addition to the requirements file, install processing tools if running the notebook locally:<br>
-`pip install astropy matplotlib google-genai`
+`pip install astropy matplotlib google-genai` <br>
+
 ### Running the Pipeline
 Execute `data_analysis.ipynb` in Jupyter Notebook or VS Code to process raw FITS files <br>
 `client = genai.Client(api_keys = "YOUR_GEMINI_API_KEY")`<br>
+
 Then, run all cells in the notebook to generate a `web_assets/data.json` and processed images
+
 ### Launch the Website
 Run the Streamlit dashboard<br>
    `streamlit run app.py`<br>
+   
 ## Dataset Information
 - Target Name: NGC 3324 (star-forming region)
 - Program ID: JWST ERS 02731
